@@ -1,0 +1,14 @@
+C:\Users\abdod\OneDrive\Desktop\SWP(BDS)\BDS\BDS\bin\Release\BDS.exe.config
+C:\Users\abdod\OneDrive\Desktop\SWP(BDS)\BDS\BDS\bin\Release\BDS.exe
+C:\Users\abdod\OneDrive\Desktop\SWP(BDS)\BDS\BDS\bin\Release\BDS.pdb
+C:\Users\abdod\OneDrive\Desktop\SWP(BDS)\BDS\BDS\bin\Release\Guna.UI2.dll
+C:\Users\abdod\OneDrive\Desktop\SWP(BDS)\BDS\BDS\obj\Release\BDS.csproj.AssemblyReference.cache
+C:\Users\abdod\OneDrive\Desktop\SWP(BDS)\BDS\BDS\obj\Release\BDS.CUT.AD_login.resources
+C:\Users\abdod\OneDrive\Desktop\SWP(BDS)\BDS\BDS\obj\Release\BDS.CUT.US_login.resources
+C:\Users\abdod\OneDrive\Desktop\SWP(BDS)\BDS\BDS\obj\Release\BDS.Form1.resources
+C:\Users\abdod\OneDrive\Desktop\SWP(BDS)\BDS\BDS\obj\Release\BDS.Properties.Resources.resources
+C:\Users\abdod\OneDrive\Desktop\SWP(BDS)\BDS\BDS\obj\Release\BDS.csproj.GenerateResource.cache
+C:\Users\abdod\OneDrive\Desktop\SWP(BDS)\BDS\BDS\obj\Release\BDS.csproj.CoreCompileInputs.cache
+C:\Users\abdod\OneDrive\Desktop\SWP(BDS)\BDS\BDS\obj\Release\BDS.csproj.CopyComplete
+C:\Users\abdod\OneDrive\Desktop\SWP(BDS)\BDS\BDS\obj\Release\BDS.exe
+C:\Users\abdod\OneDrive\Desktop\SWP(BDS)\BDS\BDS\obj\Release\BDS.pdb
